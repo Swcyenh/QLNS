@@ -1,0 +1,15 @@
+/home/Shen/Swcyen/2023-2024/3rd_semester/LTW&UD/QLNS/bin/Debug/net7.0/QLNS
+/home/Shen/Swcyen/2023-2024/3rd_semester/LTW&UD/QLNS/bin/Debug/net7.0/QLNS.deps.json
+/home/Shen/Swcyen/2023-2024/3rd_semester/LTW&UD/QLNS/bin/Debug/net7.0/QLNS.runtimeconfig.json
+/home/Shen/Swcyen/2023-2024/3rd_semester/LTW&UD/QLNS/bin/Debug/net7.0/QLNS.dll
+/home/Shen/Swcyen/2023-2024/3rd_semester/LTW&UD/QLNS/bin/Debug/net7.0/QLNS.pdb
+/home/Shen/Swcyen/2023-2024/3rd_semester/LTW&UD/QLNS/obj/Debug/net7.0/QLNS.csproj.AssemblyReference.cache
+/home/Shen/Swcyen/2023-2024/3rd_semester/LTW&UD/QLNS/obj/Debug/net7.0/QLNS.GeneratedMSBuildEditorConfig.editorconfig
+/home/Shen/Swcyen/2023-2024/3rd_semester/LTW&UD/QLNS/obj/Debug/net7.0/QLNS.AssemblyInfoInputs.cache
+/home/Shen/Swcyen/2023-2024/3rd_semester/LTW&UD/QLNS/obj/Debug/net7.0/QLNS.AssemblyInfo.cs
+/home/Shen/Swcyen/2023-2024/3rd_semester/LTW&UD/QLNS/obj/Debug/net7.0/QLNS.csproj.CoreCompileInputs.cache
+/home/Shen/Swcyen/2023-2024/3rd_semester/LTW&UD/QLNS/obj/Debug/net7.0/QLNS.dll
+/home/Shen/Swcyen/2023-2024/3rd_semester/LTW&UD/QLNS/obj/Debug/net7.0/refint/QLNS.dll
+/home/Shen/Swcyen/2023-2024/3rd_semester/LTW&UD/QLNS/obj/Debug/net7.0/QLNS.pdb
+/home/Shen/Swcyen/2023-2024/3rd_semester/LTW&UD/QLNS/obj/Debug/net7.0/QLNS.genruntimeconfig.cache
+/home/Shen/Swcyen/2023-2024/3rd_semester/LTW&UD/QLNS/obj/Debug/net7.0/ref/QLNS.dll
